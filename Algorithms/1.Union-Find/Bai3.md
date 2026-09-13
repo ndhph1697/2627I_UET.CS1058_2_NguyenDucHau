@@ -1,5 +1,3 @@
-## Phân tích từng cặp
-
 ### (0, 4)
 - Trạng thái trước khi gộp:
   - Node 0 là gốc chứa {0, 1, 2, 3} → sz = 4
